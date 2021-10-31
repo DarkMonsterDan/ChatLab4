@@ -1,0 +1,39 @@
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\Chat_online.Connect.resources
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\Chat_online.mainform.resources
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\Chat_online.Make_Server.resources
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\Chat_online.Properties.Resources.resources
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\Chat online.csproj.GenerateResource.Cache
+F:\C#\ProjectZZ\Chat online\Chat online\bin\Debug\Chat online.exe
+F:\C#\ProjectZZ\Chat online\Chat online\bin\Debug\Chat online.pdb
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\Chat online.exe
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\Chat online.pdb
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\Chat_online.USerLIst.resources
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\Chat_online.About.resources
+F:\C#\ProjectZZ\Chat online\Chat online\obj\Debug\Chat_online.Settings.resources
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\obj\Debug\Chat online.exe
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\obj\Debug\Chat online.pdb
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\obj\Debug\Chat_online.About.resources
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\obj\Debug\Chat_online.Connect.resources
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\obj\Debug\Chat_online.mainform.resources
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\obj\Debug\Chat_online.Make_Server.resources
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\obj\Debug\Chat_online.Properties.Resources.resources
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\obj\Debug\Chat_online.Settings.resources
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\obj\Debug\Chat_online.USerLIst.resources
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\obj\Debug\Chat online.csproj.GenerateResource.Cache
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\bin\Debug\Chat online.exe
+C:\Users\lolCreeper0\Desktop\Chat online\Chat online\bin\Debug\Chat online.pdb
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\bin\Debug\Chat online.exe
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\bin\Debug\Chat online.pdb
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat online.csproj.AssemblyReference.cache
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat_online.About.resources
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat_online.Connect.resources
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat_online.mainform.resources
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat_online.Make_Server.resources
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat_online.Properties.Resources.resources
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat_online.Settings.resources
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat_online.USerLIst.resources
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat online.csproj.GenerateResource.cache
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat online.csproj.CoreCompileInputs.cache
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat online.exe
+D:\Диск E\Магистратура\5 семестр\ПППС (Орлянская)\Лабораторные работы\Лабораторная работа 3\Desktop\3\Chat online\Chat online\obj\Debug\Chat online.pdb
